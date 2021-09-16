@@ -6,4 +6,4 @@ Las dimensiones de la red simulada son _NXN=16X16_, la temperatura inicial del s
 
 Los pasos de Monte Carlo usados para usados para dejar estabilizar el sistema fueron de 1025 al igual que los usados para calcular los promedios.
 
-Con esta especificaciones el programa se tarda al rededor de 30 minutos en arrojar los gráficos, para obtener graficos en menor tiempo, se pueden disminuir las dimensiones de la red y el número de pasos de Monte Carlo.
+Con esta especificaciones el programa se tarda alrededor de 30 minutos en arrojar los gráficos, para obtener graficos en menor tiempo, se pueden disminuir las dimensiones de la red y el número de pasos de Monte Carlo.
